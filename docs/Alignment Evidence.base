@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.folder == "changes"
+        - type == "verification-evidence"
+    order:
+      - file.name
+      - date
+      - status
+      - commit
+    sort: []
