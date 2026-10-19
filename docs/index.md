@@ -1,6 +1,6 @@
 # Project knowledge — start here
 
-**Status:** Laptop Returns Demo requirements are approved. Other project-specific content remains subject to project owner approval before implementation.
+**Status:** Laptop Returns Demo requirements and architecture are approved. Other project-specific content remains subject to project owner approval before implementation.
 
 - [Requirements](requirements.md) — what this application must and must not do.
 - [Architecture](architecture.md) — approved tech stack and design boundaries.
