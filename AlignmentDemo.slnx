@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="AlignmentDemo.Tests/AlignmentDemo.Tests.csproj" />
   <Project Path="AlignmentDemo/AlignmentDemo.csproj" />
 </Solution>
