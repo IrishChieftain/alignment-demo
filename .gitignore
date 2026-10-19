@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
